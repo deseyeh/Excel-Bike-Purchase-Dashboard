@@ -17,18 +17,31 @@ Pivot Tables: The dashboard utilizes pivot tables to summarize and analyze the d
 The Excel project uses the following columns for the bike purchase data:
 
 ID: The unique identifier for each record.
+
 Marital Status: The marital status of the customer (S - Single, M - Married).
+
 Gender: The gender of the customer (M - Male, F - Female).
+
 Income: The income of the customer.
+
 Children: The number of children the customer has.
+
 Education: The education level of the customer.
+
 Occupation: The occupation of the customer.
+
 Home Owner: Indicates whether the customer owns a home.
+
 Cars: The number of cars owned by the customer.
+
 Commute Distance: The distance the customer commutes.
+
 Region: The region where the customer resides.
+
 Age: The age of the customer.
+
 Purchase Bike: The target variable indicating whether the customer purchased a bike (Yes, No).
+
 
 ![Bike Purchase_Page_1](https://github.com/deseyeh/Excel-Bike-Purchase-Dashboard/assets/100138272/6b24e0db-0208-44d0-b8c6-48c8d2c39c4e)
 
